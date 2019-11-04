@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
-    <link>http://kkssmmqaq.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>学习笔记</title>
+    <link>https://kkssmmqaq.github.io/</link>
+    <description>Recent content on 学习笔记</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 04 Nov 2019 11:18:07 +0800</lastBuildDate>
     
-	<atom:link href="http://kkssmmqaq.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kkssmmqaq.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://kkssmmqaq.github.io/about/</link>
+      <pubDate>Mon, 04 Nov 2019 11:18:07 +0800</pubDate>
+      
+      <guid>https://kkssmmqaq.github.io/about/</guid>
+      <description> 测试  哈哈  </description>
+    </item>
     
   </channel>
 </rss>
